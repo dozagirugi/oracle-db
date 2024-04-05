@@ -1,3 +1,5 @@
+https://blog.naver.com/drv98
+
 --1
 SELECT EMPNO, ENAME, SAL
 FROM EMP
