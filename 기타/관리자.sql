@@ -1,8 +1,8 @@
--- ÀÌ°ÍÀÌ ÁÖ¼®ÀÌ´Ù '--'ÇÏ°Å³ª ctrl + / ´©¸£±â
+-- ì´ê²ƒì´ ì£¼ì„ì´ë‹¤ '--'í•˜ê±°ë‚˜ ctrl + / ëˆ„ë¥´ê¸°
 
 select sysdate from dual;
--- ³¯Â¥ Ãâ·ÂÇÏ±â
+-- ë‚ ì§œ ì¶œë ¥í•˜ê¸°
 
 @C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\scott.sql
 alter user scott identified by 1234;
--- ½ºÄà °èÁ¤ ¸¸µé±â
+-- ìŠ¤ì½§ ê³„ì • ë§Œë“¤ê¸°
